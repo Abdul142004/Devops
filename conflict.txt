@@ -1,1 +1,1 @@
-this is main line 2
+conflict resolved 
